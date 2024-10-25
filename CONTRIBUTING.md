@@ -29,7 +29,7 @@ Avant de proposer une contribution importante, nous vous recommandons de créer 
 
 ```bash
 git add .
-git commit -m "Description des modifications" ```
+git commit -m "Description des modifications"
 git push origin nom-de-la-branche
 ```
 
