@@ -30,7 +30,7 @@ Git (pour cloner le dépôt)
 Logiciel de conception CAO pour la modélisation
 Installation
 Clonez le dépôt :
-git clone https://github.com/nom-utilisateur/nom-depot.git
+git clone https://github.com/paguielng/Rocket-developp-v2.git
 Installez les dépendances :
 cd nom-depot
 [Instructions pour installer les dépendances spécifiques]
