@@ -30,9 +30,10 @@ Système de propulsion : [Pro54-5G_motor](http://logiqueformelle.free.fr/eti-aer
 
 Structure : Aluminium
 
-Système de contrôle : Asservissement PID - Controle de roulis
+Système de contrôle : Asservissement PID - Controle de roulis avec cette [Article explicatif](https://www.firediy.fr/article/asservissement-pid-drone-ch-8)
 
-Système de télémétrie : BR Mini Avionic
+
+Système de télémétrie : [BR Mini Avionic](https://berryrocket.com/wiki/BR_Mini_Avionic)
 
 # Prérequis
 [Liste des outils, bibliothèques, et environnements nécessaires]
