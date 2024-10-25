@@ -74,16 +74,10 @@ Ce projet est sous licence [MIT License](https://fr.wikipedia.org/wiki/Licence_M
 
 # Mon Projet
 
-<p align="center">
-  <img src="https://i.imgur.com/wWUDADI.png" width="30%" alt="Image 1"/>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/Ch5gkQi.png" width="30%" alt="Image 2"/>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/yoeSnoa.png" width="30%" alt="Image 3"/>
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/wWUDADI.png" width="30%" alt="Image 1" />
+  <img src="https://i.imgur.com/Ch5gkQi.png" width="30%" alt="Image 2" />
+  <img src="https://i.imgur.com/yoeSnoa.png" width="30%" alt="Image 3" />
+</div>
 
 Bienvenue dans mon projet ! Ici, vous trouverez des informations sur...
