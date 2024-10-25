@@ -25,7 +25,8 @@ La récupération de la fusée après le lancement
 
 Caractéristiques Techniques
 
-Système de propulsion : Pro54-5G_motor
+Système de propulsion : [Pro54-5G_motor](http://logiqueformelle.free.fr/eti-aerospatial/doc/propulseurs_spatial_BARASINGA.pdf)
+
 
 Structure : Aluminium
 
