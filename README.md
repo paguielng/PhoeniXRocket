@@ -74,13 +74,7 @@ Ce projet est sous licence [MIT License](https://fr.wikipedia.org/wiki/Licence_M
 
 # Mon Projet
 
-# Mon Projet
-
 <p align="center">
   <img src="https://i.imgur.com/wWUDADI.png" width="30%"/>
 </p>
-
-Bienvenue dans mon projet ! Ici, vous trouverez des informations sur...
-
-
 Bienvenue dans mon projet ! Ici, vous trouverez des informations sur...
