@@ -3,7 +3,7 @@ Rocket developpement v2
 Projet Fusée Expérimentale
 Ce dépôt contient les fichiers et le code source pour le développement d'une fusée expérimentale. Le projet explore les principes de base de l’aérospatiale et des fusées, avec des objectifs d'amélioration continue et de tests réguliers.
 
-**Table des matières**
+#Table des matières
 Aperçu du Projet
 Caractéristiques Techniques
 Prérequis
@@ -20,11 +20,11 @@ La stabilité et le contrôle de vol
 Les systèmes de télémétrie et de communication
 La récupération de la fusée après le lancement
 Caractéristiques Techniques
-Système de propulsion : [Description de la technologie de propulsion utilisée]
-Structure : [Matériaux utilisés pour la fabrication]
-Système de contrôle : [Description des dispositifs de contrôle]
-Système de télémétrie : [Type de capteurs et de communication utilisés]
-Prérequis
+Système de propulsion : Pro54-5G_motor
+Structure : Aluminium
+Système de contrôle : Asservissement PID - Controle de roulis
+Système de télémétrie : BR Mini Avionic
+#Prérequis
 [Liste des outils, bibliothèques, et environnements nécessaires]
 Git (pour cloner le dépôt)
 Logiciel de conception CAO pour la modélisation
