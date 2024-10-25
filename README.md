@@ -58,7 +58,7 @@ Ce projet a pour objectif la création d'une fusée expérimentale visant à tes
   
 - `docs/` : Documentation technique, rapports de tests, et analyse de performances.
   
-- `tests/` : Scripts et données pour les tests en laboratoire.
+- `tests/` : Scripts et données pour les tests et analyses.
 
 ## 6. Utilisation
 
