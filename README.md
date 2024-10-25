@@ -15,25 +15,15 @@ Ce dépôt contient les fichiers step et stl de modelisarion et le code source p
 # Aperçu du Projet
 Ce projet a pour objectif la création d'une fusée expérimentale visant à tester différents aspects de l'ingénierie aérospatiale, tels que :
 
-La propulsion
-
-La stabilité et le contrôle de vol
-
-Les systèmes de télémétrie et de communication
-
-La récupération de la fusée après le lancement
-
-Caractéristiques Techniques
-
-Système de propulsion : [Pro54-5G_motor](http://logiqueformelle.free.fr/eti-aerospatial/doc/propulseurs_spatial_BARASINGA.pdf)
-
-
-Structure : Aluminium
-
-Système de contrôle : Asservissement PID - Controle de roulis avec cette [Article explicatif](https://www.firediy.fr/article/asservissement-pid-drone-ch-8)
-
-
-Système de télémétrie : [BR Mini Avionic](https://berryrocket.com/wiki/BR_Mini_Avionic)
+* La propulsion
+* La stabilité et le contrôle de vol
+* Les systèmes de télémétrie et de communication
+* La récupération de la fusée après le lancement
+* Caractéristiques Techniques
+* Système de propulsion : [Pro54-5G_motor](http://logiqueformelle.free.fr/eti-aerospatial/doc/propulseurs_spatial_BARASINGA.pdf)
+* Structure : Aluminium
+* Système de contrôle : Asservissement PID - Controle de roulis avec cette [Article explicatif](https://www.firediy.fr/article/asservissement-pid-drone-ch-8)
+* Système de télémétrie : [BR Mini Avionic](https://berryrocket.com/wiki/BR_Mini_Avionic)
 
 # Prérequis
 [Liste des outils, bibliothèques, et environnements nécessaires]
