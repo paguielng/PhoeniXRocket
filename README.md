@@ -30,14 +30,14 @@ Ce projet a pour objectif la création d'une fusée expérimentale visant à tes
 - Git (pour cloner le dépôt)
 - Logiciel de conception CAO pour la modélisation
   - Installation
-  - Clonez le dépôt : 'git clone' https://github.com/paguielng/Rocket-developp-v2.git
-- Installez les dépendances : '''cd nom-depot'''
+  - Clonez le dépôt : `git clone` https://github.com/paguielng/Rocket-developp-v2.git
+- Installez les dépendances : `cd nom-depot`
 - [Instructions pour installer les dépendances spécifiques]
 # Structure du Dépôt
-'''src/''' : Code source pour les simulations et le contrôle de la fusée.
-'''design/''' : Fichiers de conception CAO pour les différentes parties de la fusée.
-'''docs/''' : Documentation technique, rapports de tests, et analyse de performances.
-'''tests/''' : Scripts et données pour les tests en laboratoire.
+`src/` : Code source pour les simulations et le contrôle de la fusée.
+`design/` : Fichiers de conception CAO pour les différentes parties de la fusée.
+`docs/` : Documentation technique, rapports de tests, et analyse de performances.
+`tests/` : Scripts et données pour les tests en laboratoire.
 Utilisation
 # Exécutez les simulations de test :
 [Instruction pour lancer les simulations]
