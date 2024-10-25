@@ -31,7 +31,7 @@ Avant de proposer une contribution importante, nous vous recommandons de créer 
 git add .
 git commit -m "Description des modifications" ```
 git push origin nom-de-la-branche
-```bash
+```
 
 3. **Faire vos Modifications** : Effectuez vos changements et veillez à respecter les standards du projet.
 
