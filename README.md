@@ -1,7 +1,7 @@
 # Rocket Developpement v2
 
 **Projet Fusée Expérimentale**  
-Ce dépôt contient les fichiers STEP et STL pour la modélisation ainsi que le code source pour le développement de la fusée expérimentale. Ce projet expérimente les principes de base du contrôle de roulis d'une fusée, avec des objectifs d'amélioration continue et de tests réguliers.
+Ce dépôt contient les fichiers STEP et STL pour la modélisation ainsi que le code source pour le développement système de la fusée expérimentale. Ce projet expérimente les principes de base du contrôle de roulis d'une fusée, avec des objectifs d'amélioration continue et de tests réguliers.
 
 ## Table des matières
 1. [Aperçu du Projet](#1-apercu-du-projet)
