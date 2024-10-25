@@ -66,9 +66,9 @@ Ce projet a pour objectif la création d'une fusée expérimentale visant à tes
 1. **Exécuter les simulations de test** : Ajouter ici les instructions pour lancer les simulations.
 2. **Préparer le système de lancement** : Ajouter ici les instructions pour le déploiement et le lancement de la fusée.
 
-# Contribution
+## 7. Contribution
 Les contributions sont les bienvenues ! Merci de consulter le fichier `CONTRIBUTING.md` pour les détails du processus.
 
-# Licence
+## 8. Licence
 Ce projet est sous licence [MIT License](https://fr.wikipedia.org/wiki/Licence_MIT).
 
