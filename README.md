@@ -30,12 +30,8 @@ Git (pour cloner le dépôt)
 Logiciel de conception CAO pour la modélisation
 Installation
 Clonez le dépôt :
-bash
-Copier le code
 git clone https://github.com/nom-utilisateur/nom-depot.git
 Installez les dépendances :
-bash
-Copier le code
 cd nom-depot
 [Instructions pour installer les dépendances spécifiques]
 Structure du Dépôt
@@ -45,12 +41,8 @@ docs/ : Documentation technique, rapports de tests, et analyse de performances.
 tests/ : Scripts et données pour les tests en laboratoire.
 Utilisation
 Exécutez les simulations de test :
-bash
-Copier le code
 [Instruction pour lancer les simulations]
 Préparez le système de lancement :
-bash
-Copier le code
 [Instructions pour le déploiement et le lancement de la fusée]
 Contribution
 Les contributions sont les bienvenues ! Merci de consulter le fichier CONTRIBUTING.md pour les détails du processus.
