@@ -27,11 +27,11 @@ Avant de proposer une contribution importante, nous vous recommandons de créer 
    ```bash
    git checkout -b nom-de-la-branche
 
-```bash
-git add .
-git commit -m "Description des modifications"
-git push origin nom-de-la-branche
-```
+   ```bash
+   git add .
+   git commit -m "Description des modifications"
+   git push origin nom-de-la-branche
+   ```
 
 3. **Faire vos Modifications** : Effectuez vos changements et veillez à respecter les standards du projet.
 
