@@ -1,17 +1,17 @@
 # Rocket-developp-v2
 Rocket developpement v2
 Projet Fusée Expérimentale
-Ce dépôt contient les fichiers et le code source pour le développement d'une fusée expérimentale. Le projet explore les principes de base de l’aérospatiale et des fusées, avec des objectifs d'amélioration continue et de tests réguliers.
+Ce dépôt contient les fichiers step et stl de modelisarion et le code source pour le développement de la fusée expérimentale. Le projet experimente et explore les principes de base du controole de roulis d'une fusée, avec des objectifs d'amélioration continue et de tests réguliers.
 
 # Table des matières
-Aperçu du Projet
-Caractéristiques Techniques
-Prérequis
-Installation
-Structure du Dépôt
-Utilisation
-Contribution
-Licence
+- Aperçu du Projet
+- Caractéristiques Techniques
+- Prérequis
+- Installation
+- Structure du Dépôt
+- Utilisation
+- Contribution
+- Licence
 # Aperçu du Projet
 Ce projet a pour objectif la création d'une fusée expérimentale visant à tester différents aspects de l'ingénierie aérospatiale, tels que :
 
