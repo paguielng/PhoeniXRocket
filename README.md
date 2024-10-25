@@ -37,8 +37,11 @@ Ce projet a pour objectif la création d'une fusée expérimentale visant à tes
 - [Instructions pour installer les dépendances spécifiques]
 # Structure du Dépôt
   `src/` : Code source pour les simulations et le contrôle de la fusée.
+  
   `design/` : Fichiers de conception CAO pour les différentes parties de la fusée.
+  
   `docs/` : Documentation technique, rapports de tests, et analyse de performances.
+  
   `tests/` : Scripts et données pour les tests en laboratoire.
 Utilisation
 # Exécutez les simulations de test :
@@ -47,7 +50,7 @@ Préparez le système de lancement :
 - [Instructions pour le déploiement et le lancement de la fusée]
 
 # Contribution
-Les contributions sont les bienvenues ! Merci de consulter le fichier CONTRIBUTING.md pour les détails du processus.
+Les contributions sont les bienvenues ! Merci de consulter le fichier `CONTRIBUTING.md` pour les détails du processus.
 
 # Licence
 Ce projet est sous licence [MIT License](https://fr.wikipedia.org/wiki/Licence_MIT).
