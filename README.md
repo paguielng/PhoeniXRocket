@@ -62,7 +62,7 @@ Ce projet a pour objectif la création d'une fusée expérimentale visant à tes
 
 ## 6. Utilisation
 
-# Exécutez les simulations de test :
+### Exécutez les simulations de test :
 1. **Exécuter les simulations de test** : Ajouter ici les instructions pour lancer les simulations.
 2. **Préparer le système de lancement** : Ajouter ici les instructions pour le déploiement et le lancement de la fusée.
 
