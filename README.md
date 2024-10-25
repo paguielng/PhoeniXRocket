@@ -16,14 +16,23 @@ Licence
 Ce projet a pour objectif la création d'une fusée expérimentale visant à tester différents aspects de l'ingénierie aérospatiale, tels que :
 
 La propulsion
+
 La stabilité et le contrôle de vol
+
 Les systèmes de télémétrie et de communication
+
 La récupération de la fusée après le lancement
+
 Caractéristiques Techniques
+
 Système de propulsion : Pro54-5G_motor
+
 Structure : Aluminium
+
 Système de contrôle : Asservissement PID - Controle de roulis
+
 Système de télémétrie : BR Mini Avionic
+
 # Prérequis
 [Liste des outils, bibliothèques, et environnements nécessaires]
 Git (pour cloner le dépôt)
