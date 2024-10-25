@@ -26,9 +26,9 @@ Ce projet a pour objectif la création d'une fusée expérimentale visant à tes
 * Système de télémétrie : [BR Mini Avionic](https://berryrocket.com/wiki/BR_Mini_Avionic)
 
 # Prérequis
-- Liste des outils : [La Berry Rocket Mini-Avionic](https://berryrocket.com/wiki/BR_Mini_Avionic)
+- Liste des outils : [Berry Rocket Mini-Avionic](https://berryrocket.com/wiki/BR_Mini_Avionic)
   - Bibliothèques :
-  - Environnements nécessaires : Préférence avec l'[IDE Thonny](https://thonny.org/). gratuit et open source pour Python
+  - Environnements nécessaires : Préférence avec l'[IDE Thonny](https://thonny.org/)  gratuit et open source pour Python
 - Git (pour cloner le dépôt)
 - Logiciel de conception CAO pour la modélisation : [Autodesk Fusion](https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription&plc=FSN#top)
   - Installation
