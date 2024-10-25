@@ -74,8 +74,13 @@ Ce projet est sous licence [MIT License](https://fr.wikipedia.org/wiki/Licence_M
 
 # Mon Projet
 
+# Mon Projet
+
 <p align="center">
-  <img src="https://photos.fife.usercontent.google.com/pw/AP1GczMHFTyG46eArn3Ox4Pn9BFc_P3XrnYJAPgIe1EAp__McgResgxUOd1j=w500-h500-s-no-gm?authuser=0" width="30%"/>
+  <img src="https://i.imgur.com/wWUDADI.png" width="30%"/>
 </p>
+
+Bienvenue dans mon projet ! Ici, vous trouverez des informations sur...
+
 
 Bienvenue dans mon projet ! Ici, vous trouverez des informations sur...
