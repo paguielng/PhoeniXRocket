@@ -17,7 +17,7 @@ Ce dépôt contient les fichiers STEP et STL pour la modélisation ainsi que le 
 
 Ce projet a pour objectif la création d'une fusée expérimentale visant à tester différents aspects de l'ingénierie aérospatiale, tels que :
 - La propulsion
-- La stabilité et le contrôle de vol
+- La stabilité et le contrôle de vol - Controle de roulis (Experimentation)
 - Les systèmes de télémétrie et de communication
 - La récupération de la fusée après le lancement
 
@@ -31,7 +31,7 @@ Ce projet a pour objectif la création d'une fusée expérimentale visant à tes
 ## 3. Prérequis
 
 - **Outils nécessaires** :
-  - [Berry Rocket Mini-Avionic](https://berryrocket.com/wiki/BR_Mini_Avionic) pour la télémétrie.
+  - [Berry Rocket Mini-Avionic](https://berryrocket.com/wiki/BR_Mini_Avionic)  pour la télémétrie.
   - Environnement Python (préférence pour l'[IDE Thonny](https://thonny.org/)).
   - Git (pour cloner le dépôt).
   - Logiciel de conception CAO, tel que [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription&plc=FSN#top).
@@ -44,3 +44,31 @@ Ce projet a pour objectif la création d'une fusée expérimentale visant à tes
 1. **Cloner le dépôt** :
    ```bash
    git clone https://github.com/paguielng/Rocket-developp-v2.git
+2. **Accéder au répertoire du projet** :
+   ```bash
+   cd Rocket-developp-v2
+3. **Installer les dépendances** :
+   Ajouter ici les commandes spécifiques si des dépendances doivent être installées.
+   
+## 5. Structure du Dépôt
+
+- `src/` : Code source pour les simulations et le contrôle de la fusée.
+  
+- `design/` : Fichiers de conception CAO pour les différentes parties de la fusée.
+  
+- `docs/` : Documentation technique, rapports de tests, et analyse de performances.
+  
+- `tests/` : Scripts et données pour les tests en laboratoire.
+
+## 6. Utilisation
+
+# Exécutez les simulations de test :
+1. **Exécuter les simulations de test** : Ajouter ici les instructions pour lancer les simulations.
+2. **Préparer le système de lancement** : Ajouter ici les instructions pour le déploiement et le lancement de la fusée.
+
+# Contribution
+Les contributions sont les bienvenues ! Merci de consulter le fichier `CONTRIBUTING.md` pour les détails du processus.
+
+# Licence
+Ce projet est sous licence [MIT License](https://fr.wikipedia.org/wiki/Licence_MIT).
+
