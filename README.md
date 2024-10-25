@@ -72,3 +72,10 @@ Les contributions sont les bienvenues ! Merci de consulter le fichier `CONTRIBUT
 ## 8. Licence
 Ce projet est sous licence [MIT License](https://fr.wikipedia.org/wiki/Licence_MIT).
 
+# Mon Projet
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/paguielng/Rocket-developp-v2/main/Logo-preview/3-Sparrow-preview.png" width="30%"/>
+</p>
+
+Bienvenue dans mon projet ! Ici, vous trouverez des informations sur...
