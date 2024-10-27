@@ -79,5 +79,3 @@ Ce projet est sous licence [MIT License](https://fr.wikipedia.org/wiki/Licence_M
   <img src="https://i.imgur.com/Ch5gkQi.png" width="30%" alt="Image 2" />
   <img src="https://i.imgur.com/yoeSnoa.png" width="30%" alt="Image 3" />
 </div>
-
-Bienvenue dans mon projet ! Ici, vous trouverez des informations sur...
