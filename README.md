@@ -72,7 +72,7 @@ Les contributions sont les bienvenues ! Merci de consulter le fichier `CONTRIBUT
 ## 8. Licence
 Ce projet est sous licence [MIT License](https://fr.wikipedia.org/wiki/Licence_MIT).
 
-# Mon Projet
+# Autres divers Projets
 
 <div align="center">
   <img src="https://i.imgur.com/wWUDADI.png" width="30%" alt="Image 1" />
