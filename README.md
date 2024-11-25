@@ -70,7 +70,7 @@ Ce projet a pour objectif la création d'une fusée expérimentale visant à tes
 Les contributions sont les bienvenues ! Merci de consulter le fichier `CONTRIBUTING.md` pour les détails du processus.
 
 ## 8. Licence
-Ce projet est sous licence [MIT License](https://fr.wikipedia.org/wiki/Licence_MIT).
+Ce projet est sous licence [MIT License](https://fr.wikipedia.org/wiki/Licence_MIT). [V-2 rocket](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aggregat4-Schnitt-engl.jpg/800px-Aggregat4-Schnitt-engl.jpg)
 
 # Autres divers Projets
 
