@@ -25,7 +25,8 @@ Ce projet a pour objectif la création d'une fusée expérimentale visant à tes
 
 - **Système de propulsion** : Utilise un moteur [Pro54-5G](http://logiqueformelle.free.fr/eti-aerospatial/doc/propulseurs_spatial_BARASINGA.pdf).
 - **Structure** : Conception en aluminium pour assurer une robustesse et une légèreté optimales.
-- **Système de contrôle** : Asservissement PID pour le contrôle de roulis. Voir l'[article explicatif](http://www.lycee-ferry-versailles.fr/si-new/7_2_asservissement/cours/1_cours_asservissement_2017_v2.pdf).
+- **Système de contrôle** : Asservissement PID pour le contrôle de roulis. Voir le[cours explicatif sur Régulation et asservissement
+](http://www.lycee-ferry-versailles.fr/si-new/7_2_asservissement/cours/1_cours_asservissement_2017_v2.pdf).
 - **Système de télémétrie** : Utilise la carte [BR Mini Avionic](https://berryrocket.com/wiki/BR_Mini_Avionic) pour la collecte de données en vol.
 
 ## 3. Prérequis
