@@ -1,7 +1,7 @@
-# BerryRocket
+# PhoenixRocket
 
 ## Description
-BerryRocket est un projet de fusée expérimentale incluant code source, modèles 3D, composants hardware et documentation technique.  
+PhoenixRocket est un projet de fusée expérimentale incluant code source, modèles 3D, composants hardware et documentation technique.  
 L’accès et l’utilisation sont **strictement réservés aux personnes habilitées** par l’auteur.
 
 ## Structure des licences
