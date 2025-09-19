@@ -17,5 +17,5 @@ Seuls les contributeurs désignés par l’auteur peuvent modifier le code, les 
 
 ## Contact
 Pour autorisation ou questions :  
-- Email : [ton.email@example.com]  
-- GitHub : [TonProfilGitHub]
+- Email : email@ex.com  
+
