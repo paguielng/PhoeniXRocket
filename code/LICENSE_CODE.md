@@ -1,4 +1,4 @@
-# BerryRocket Code License v1.0
+# PhoenixRocket Code License v1.0
 
 **Copyright (c) [Année] [Ton Nom / Pseudonyme]**
 
