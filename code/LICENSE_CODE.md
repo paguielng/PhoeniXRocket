@@ -1,4 +1,4 @@
-# Phoenix1 Code License v1.0
+# Phoenix-1 Code License v1.0
 
 **Copyright (c) [Année] [Ton Nom / Pseudonyme]**
 
