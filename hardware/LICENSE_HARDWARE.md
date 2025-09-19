@@ -1,4 +1,4 @@
-# BerryRocket Hardware License v1.0
+# Phoenix-1 Hardware License v1.0
 
 1. **Accès et utilisation**  
    - Réservé aux personnes habilitées par l’auteur.
