@@ -1,4 +1,4 @@
-# BerryRocket Documentation License v1.0
+# Phoenix-1 Documentation License v1.0
 
 1. **Accès et utilisation**  
    - Consultation réservée aux personnes habilitées.
