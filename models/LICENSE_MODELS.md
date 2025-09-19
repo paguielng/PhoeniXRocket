@@ -1,4 +1,4 @@
-# BerryRocket 3D Models License v1.0
+# Phoenix-1 3D Models License v1.0
 
 1. **Accès et utilisation**  
    - Réservé aux personnes habilitées par l’auteur.
