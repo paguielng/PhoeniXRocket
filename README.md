@@ -1,4 +1,4 @@
-# PhoenixRocket
+# PhoenixRocket v1.0
 
 ## Description
 PhoenixRocket est un projet de fusée expérimentale incluant code source, modèles 3D, composants hardware et documentation technique.  
