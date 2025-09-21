@@ -16,6 +16,6 @@ L’accès et l’utilisation sont **strictement réservés aux personnes habili
 Seuls les contributeurs peuvent modifier le code, les modèles ou la documentation.
 
 ## Contact
-Pour questions ou contribution :  
+Pour questions ou contribution :  CONTRIBUTING.md
 - Email : paguiel.nganji-mucyo@etu.iut-tlse3.fr  
 
