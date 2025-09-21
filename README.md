@@ -13,7 +13,7 @@ L’accès et l’utilisation sont **strictement réservés aux personnes habili
 | Documentation | LICENSE_DOCS.md | Consultation réservée aux personnes habilitées. Publication ou partage se fait avec autorisation. Attribution facultative selon l’auteur. |
 
 ## Contributeurs habilités
-Seuls les contributeurs désignés par l’auteur peuvent modifier le code, les modèles ou la documentation.
+Seuls les contributeurs peuvent modifier le code, les modèles ou la documentation.
 
 ## Contact
 Pour questions ou contribution :  
